@@ -14,7 +14,7 @@ A telegram bot that helps in Language translation from direct language to any la
 ## Language Translation | Text Extraction from images | Implementation of AI
 <p float="left">
   <img src="https://user-images.githubusercontent.com/60610128/203905459-302bd027-b63c-4c21-8b33-a12736b834c0.gif" width="300" height="650" />
-  <img src="https://user-images.githubusercontent.com/60610128/203913787-8218e643-2b01-44ae-9ac8-a50279990c79.gif" width="300" height="650" /> 
+  <img style="padding-left:10px;" src="https://user-images.githubusercontent.com/60610128/203913787-8218e643-2b01-44ae-9ac8-a50279990c79.gif" width="300" height="650" /> 
   <img src="https://user-images.githubusercontent.com/60610128/203912890-a11e2336-8269-467e-a19d-4a0d28773336.gif" width="300" height="650" />
 </p>
 
